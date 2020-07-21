@@ -8,5 +8,8 @@ In your modelica tool of choice, e.g. Dymola, follow the steps below:
 
 - File/Open `./AircraftPowerSystem.mo`
 - Under the main package, navigate to `AircraftPowerSystem.Systems.Template.Configurations.DistributionSystem_DC1_Simple`
-- Switch to the simulation tab and `Simulate` (or alternatively press F10)
+- Switch to the simulation tab and `Simulate` (or alternatively press F10).
+
+The flight time is simulated in 60 seconds and a sample of the loads' consumptions and the generators output can be noted below.
+
 ![alt text](https://github.com/ALSETLab/Boeing737_PowerSystem_in_Modelica/blob/master/Flight_Simulation_Example/flight.jpg)
