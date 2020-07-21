@@ -3,4 +3,10 @@ This repository contains a Boeing 737 Power System Model, as implemented in Mode
 
 ![alt text](https://github.com/ALSETLab/Boeing737_PowerSystem_in_Modelica/blob/master/Flight_Simulation_Example/system.jpg)
 
+## How to simulate the aircraft's power system?
+In your modelica tool of choice, e.g. Dymola, follow the steps below:
+
+- File/Open `./AircraftPowerSystem.mo`
+- Under the main package, navigate to `AircraftPowerSystem.Systems.Template.Configurations.DistributionSystem_DC1_Simple`
+- Switch to the simulation tab and `Simulate` (or alternatively press F10)
 ![alt text](https://github.com/ALSETLab/Boeing737_PowerSystem_in_Modelica/blob/master/Flight_Simulation_Example/flight.jpg)
