@@ -19,4 +19,4 @@ The flight time is simulated in 60 seconds and a sample of the loads' consumptio
 
 As one can notice, only one version of each load is included. Many more loads can be included with out template format. One can choose to simulate many ball screw actuators simultaneously with various profiles. This can be easily achieved by just placing additional `AircraftPowerSystem.Components.Load_Temp.DC_Load` blocks in the main template, and clicking right and choosing to replace them with the Permanent Magnet Synchronous Motor (PMSM) load.
 
-![alt text](https://github.com/ALSETLab/Boeing737_PowerSystem_in_Modelica/blob/master/Flight_Simulation_Example/rep.jpg)
+![alt text](https://github.com/ALSETLab/Boeing737_PowerSystem_in_Modelica/blob/master/Flight_Simulation_Example/rep.png)
