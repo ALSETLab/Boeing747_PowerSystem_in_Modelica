@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/250306310.svg)](https://zenodo.org/badge/latestdoi/250306310)
+
 # Boeing 737 Electrical Power System Modelica Model
 This repository contains a Boeing 737 Power System Model, as implemented in Modelica. The aircraft's distribution system has been fully implemented utilizing Modelica's object orientation, allowing easy replaceability of componenents. The system, that can be noted below, has all its components as replaceable (sunken boxes) that can be easily swapped with existing components in the library or ones that can be implemented using the existing base classes.
 
@@ -6,7 +8,9 @@ This repository contains a Boeing 737 Power System Model, as implemented in Mode
 More details on this model can be found on the accompaning conference paper. If you use these models, please cite as follows:
 > S. Konstantinopoulos, H. Nademi and L. Vanfretti, “Dynamic System Modeling and Stability Assessment of Aircraft Distribution Power Systems using Modelica and the FMI,” AIAA/IEEE Electric Aircraft Technologies Symposium (EATS), 26–28 August 2020, New Orleans, LA.
 
-The author's pre-print copy of this paper can be found under the `./Doc/` directory in this repository:
+The author's pre-print copy of this paper can be found under the `./Doc/` directory in this repository.
+
+You can also cite this repository using the following DOI: [![DOI](https://zenodo.org/badge/250306310.svg)](https://zenodo.org/badge/latestdoi/250306310)
 
 
 ## How to simulate the aircraft's power system?
