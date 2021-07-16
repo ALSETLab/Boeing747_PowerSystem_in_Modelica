@@ -8,7 +8,10 @@ This repository contains a Boeing 747 Power System Model, as implemented in Mode
 More details on this model can be found on the accompaning conference paper. If you use these models, please cite as follows:
 > S. Konstantinopoulos, H. Nademi and L. Vanfretti, “Dynamic System Modeling and Stability Assessment of Aircraft Distribution Power Systems using Modelica and the FMI,” AIAA/IEEE Electric Aircraft Technologies Symposium (EATS), 26–28 August 2020, New Orleans, LA.
 
+The published paper is available online in the AIAA's ARC: [here](https://arc.aiaa.org/doi/10.2514/6.2020-3544).
+
 The author's pre-print copy of this paper can be found under the `./Doc/` directory in this repository.
+This is also available online in this link: [here](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2020/CP176_SKLVHN_Modelica_BoeingPowerSystem.pdf).
 
 You can also cite this repository using the following DOI: [![DOI](https://zenodo.org/badge/250306310.svg)](https://zenodo.org/badge/latestdoi/250306310)
 
